@@ -16,7 +16,7 @@ Este repositorio contiene el código fuente de un algoritmo desarrollado en Pyth
 
 
 ##  Datos Académicos
-* **Institución:** Instituto Tecnológico Superior de Comalcalco
+* **Institución:** Instituto Tecnológico Superior de Comalcalco, Tecnológico Nacional de México
 * **Asignatura:** Mecanica De Materiales
 * **Profesor:** Valenzuela Rodriguez Rafael
 * **Semestre y Grupo:** 6 C
