@@ -21,7 +21,7 @@ Este repositorio contiene el código fuente de un algoritmo desarrollado en Pyth
 * **Profesor:** Valenzuela Rodriguez Rafael
 * **Semestre y Grupo:** 6 C
 
-##  Autores (Equipo 3)
+##  Autores 
 Desarrollado de manera colaborativa por:
 * CABRALES ALMEIDA JORGE ALFONSO
 * DELGADO LOPEZ HUGO JOSEPH
